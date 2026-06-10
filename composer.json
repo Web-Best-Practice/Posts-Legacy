@@ -1,5 +1,5 @@
 {
-    "name": "web-best-practice/posts",
+    "name": "web-best-practice/posts-legacy",
     "description": "Laravel package for managing blog posts",
     "type": "library",
     "license": "MIT",

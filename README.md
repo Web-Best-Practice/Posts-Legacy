@@ -7,13 +7,13 @@ Laravel package for creating blog posts via a secured API endpoint. Request data
 ### Add a custom repository
 
 ```bash
-composer config repositories.repo-name vcs https://github.com/Web-Best-Practice/posts
+composer config repositories.repo-name vcs https://github.com/Web-Best-Practice/posts-legacy
 ```
 
 ### Install the package
 
 ```bash
-composer require web-best-practice/posts
+composer require web-best-practice/posts-legacy
 ```
 
 ### Publish the config file
